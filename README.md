@@ -4,9 +4,10 @@
 用表单的id代替古老的name来执行检验，不用再在HTML代码外套一层form。
 简单易用，懒人必备。不包括JQ的话大小为7K左右。
 
-用户见index.html文件
+用法见index.html文件
 
 目前提供的校验方法有：
+
 	"notEmpty" : "不能为空",
 	
 	"password" : "请输入正确的密码",
