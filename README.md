@@ -1,7 +1,7 @@
 # bootstrap-validate
-基于jquery的轻量级bootstrap检验插件
+基于jquery的轻量级bootstrap校验插件
 
-用表单的id代替古老的name来执行检验，不用再在HTML代码外套一层form。
+用表单的id代替古老的name来执行校验，不用再在HTML代码外套一层form。
 简单易用，懒人必备。不包括JQ的话大小为7K左右。
 
 用法见index.html文件
